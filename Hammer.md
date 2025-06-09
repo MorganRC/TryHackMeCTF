@@ -37,7 +37,7 @@ Visited:
 
 After password reset, a **PIN code** is required.
 
-Used a **Python brute-force script** found online to automate the attack:
+Used a **Python brute-force script** to automate the attack:
 
 ```
 import requests
