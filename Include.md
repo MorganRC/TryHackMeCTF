@@ -191,4 +191,4 @@ Inside the machine, I found the final flag:
 - Logged in to the admin panel and found LFI on port 50000  
 - Exploited LFI to gather usernames  
 - Brute-forced SSH using Hydra
-Gained shell access and captured the final flag!
+- Gained shell access and captured the final flag!
