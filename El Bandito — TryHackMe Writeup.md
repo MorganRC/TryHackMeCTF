@@ -429,7 +429,7 @@ So, I was able to send messages using my session.
 
 Next, I decided to try HTTP/2 request smuggling.
 
-There was also a helpful walkthrough on [`HTTP/2 Request Smuggling`](https://tryhackme.com/room/http2requestsmuggling) smuggling I followed.
+There was also a helpful walkthrough on [`HTTP/2 Request Smuggling`](https://tryhackme.com/room/http2requestsmuggling) I followed.
 
 First, I modified requests by switching protocols between HTTP/2 and HTTP/1.1, disabling the Upgrade Content-Length header.
 
